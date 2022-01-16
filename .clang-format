@@ -25,7 +25,7 @@ BreakBeforeBraces: Attach
 BreakBeforeTernaryOperators: 'true'
 BreakConstructorInitializers: BeforeColon
 BreakInheritanceList: BeforeColon
-ColumnLimit:     '160'
+ColumnLimit:     '120'
 CompactNamespaces: 'true'
 ConstructorInitializerIndentWidth: '8'
 ContinuationIndentWidth: '8'
